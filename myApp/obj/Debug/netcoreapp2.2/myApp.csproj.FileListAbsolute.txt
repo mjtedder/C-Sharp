@@ -1,0 +1,11 @@
+C:\Users\Matt Tedder\Desktop\2019 Development\C-Sharp\myApp\bin\Debug\netcoreapp2.2\myApp.deps.json
+C:\Users\Matt Tedder\Desktop\2019 Development\C-Sharp\myApp\bin\Debug\netcoreapp2.2\myApp.runtimeconfig.json
+C:\Users\Matt Tedder\Desktop\2019 Development\C-Sharp\myApp\bin\Debug\netcoreapp2.2\myApp.runtimeconfig.dev.json
+C:\Users\Matt Tedder\Desktop\2019 Development\C-Sharp\myApp\bin\Debug\netcoreapp2.2\myApp.dll
+C:\Users\Matt Tedder\Desktop\2019 Development\C-Sharp\myApp\bin\Debug\netcoreapp2.2\myApp.pdb
+C:\Users\Matt Tedder\Desktop\2019 Development\C-Sharp\myApp\obj\Debug\netcoreapp2.2\myApp.csprojAssemblyReference.cache
+C:\Users\Matt Tedder\Desktop\2019 Development\C-Sharp\myApp\obj\Debug\netcoreapp2.2\myApp.csproj.CoreCompileInputs.cache
+C:\Users\Matt Tedder\Desktop\2019 Development\C-Sharp\myApp\obj\Debug\netcoreapp2.2\myApp.AssemblyInfoInputs.cache
+C:\Users\Matt Tedder\Desktop\2019 Development\C-Sharp\myApp\obj\Debug\netcoreapp2.2\myApp.AssemblyInfo.cs
+C:\Users\Matt Tedder\Desktop\2019 Development\C-Sharp\myApp\obj\Debug\netcoreapp2.2\myApp.dll
+C:\Users\Matt Tedder\Desktop\2019 Development\C-Sharp\myApp\obj\Debug\netcoreapp2.2\myApp.pdb
