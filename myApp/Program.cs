@@ -6,7 +6,9 @@ namespace myApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            string aMessage = "Hello World!";
+            aMessage = "World!";
+            Console.WriteLine("Hello " + aMessage);
             Console.WriteLine($"The current time is {DateTime.Now}");
         }
     }
