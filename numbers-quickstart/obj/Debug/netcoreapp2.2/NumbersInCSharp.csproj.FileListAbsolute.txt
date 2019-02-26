@@ -1,0 +1,11 @@
+C:\Users\Matt Tedder\Desktop\2019 Development\C-Sharp\numbers-quickstart\bin\Debug\netcoreapp2.2\NumbersInCSharp.deps.json
+C:\Users\Matt Tedder\Desktop\2019 Development\C-Sharp\numbers-quickstart\bin\Debug\netcoreapp2.2\NumbersInCSharp.runtimeconfig.json
+C:\Users\Matt Tedder\Desktop\2019 Development\C-Sharp\numbers-quickstart\bin\Debug\netcoreapp2.2\NumbersInCSharp.runtimeconfig.dev.json
+C:\Users\Matt Tedder\Desktop\2019 Development\C-Sharp\numbers-quickstart\bin\Debug\netcoreapp2.2\NumbersInCSharp.dll
+C:\Users\Matt Tedder\Desktop\2019 Development\C-Sharp\numbers-quickstart\bin\Debug\netcoreapp2.2\NumbersInCSharp.pdb
+C:\Users\Matt Tedder\Desktop\2019 Development\C-Sharp\numbers-quickstart\obj\Debug\netcoreapp2.2\NumbersInCSharp.csprojAssemblyReference.cache
+C:\Users\Matt Tedder\Desktop\2019 Development\C-Sharp\numbers-quickstart\obj\Debug\netcoreapp2.2\NumbersInCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Matt Tedder\Desktop\2019 Development\C-Sharp\numbers-quickstart\obj\Debug\netcoreapp2.2\NumbersInCSharp.AssemblyInfoInputs.cache
+C:\Users\Matt Tedder\Desktop\2019 Development\C-Sharp\numbers-quickstart\obj\Debug\netcoreapp2.2\NumbersInCSharp.AssemblyInfo.cs
+C:\Users\Matt Tedder\Desktop\2019 Development\C-Sharp\numbers-quickstart\obj\Debug\netcoreapp2.2\NumbersInCSharp.dll
+C:\Users\Matt Tedder\Desktop\2019 Development\C-Sharp\numbers-quickstart\obj\Debug\netcoreapp2.2\NumbersInCSharp.pdb
