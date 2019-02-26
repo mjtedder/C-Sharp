@@ -29,11 +29,34 @@ namespace myApp
             string greeting = "                        Good evening!             ";
             Console.WriteLine($"[{greeting}]");
 
+            // TrimStart
             string trimmedGreeting = greeting.TrimStart();
             Console.WriteLine($"\n[{trimmedGreeting}]");
 
+            // TrimEnd
             trimmedGreeting = greeting.TrimEnd();
-            Console.WriteLine($"\n[{trimmedGreeting}]");
+            Console.WriteLine($"\n[{trimmedGreeting}]\n");
+
+            // Replace method
+            string statement = "I hate music!";
+            Console.WriteLine(statement);
+            statement = statement.Replace("hate", "love");
+            Console.WriteLine(statement);
+            Console.WriteLine("---------------------------------------\n");
+            // toUpper and toLower method
+            Console.WriteLine(statement.ToUpper());
+            Console.WriteLine(statement.ToLower());
+            Console.WriteLine("---------------------------------------\n");
+
+            // Contains, StartsWith, EndsWith methods
+            string songLyrics = "I had offered up what once was mine.";
+            Console.WriteLine(songLyrics.Contains("offered"));
+            Console.WriteLine(songLyrics.Contains("oh"));
+            Console.WriteLine("Let's try this with the StartsWith method!");
+            Console.WriteLine("------------------------------------------\n");
+            Console.WriteLine(songLyrics.StartsWith("I"));
+            Console.WriteLine(songLyrics.EndsWith("mine"));
+            Console.WriteLine("\n---------------END STRINGS DEMO---------------------");
         }
     }
 }
