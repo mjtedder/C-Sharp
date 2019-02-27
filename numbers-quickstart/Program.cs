@@ -9,6 +9,7 @@ namespace NumbersInCSharp
             int a = 18;
             int b = 6;
             int c = a + b;
+            Console.Write("-----------------------------------------");
             Console.WriteLine("ADD");
             Console.WriteLine(c + "\n");
             c = a - b;
